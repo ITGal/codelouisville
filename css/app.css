@@ -1,0 +1,38 @@
+/* Orbit Slider
+=======================*/
+.panel
+{
+ background-color: #C030FF;
+ color:#FFFFFF;
+}
+
+
+/* Paint Splatter
+====================*/
+canvas{
+	background-color: #eee;
+	width: 450px;
+	margin: auto;
+}
+
+/*-- CSS Code 
+=====================*/
+.GeneratedMarquee {
+font-family:'Comic Sans MS';
+font-size:2em;
+line-height:1.3em;
+color:#FF00CC;
+padding:1.5em;
+}
+
+/* Logo
+=========================*/
+.logo {
+    padding: 0 0 10px 0;
+    
+}
+/* Video
+=========================*/
+.flex-video {
+    
+}
